@@ -3,3 +3,6 @@
 *.iso
 build
 .idea
+/target/
+**/*.rs.bk
+Cargo.lock
